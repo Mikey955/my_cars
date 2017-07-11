@@ -1,1 +1,40 @@
+  104  git commit -m "2 files deleted"
+  105  git push -u origin master 
+  106  git status
+  107  git add .
+  108  git status
+  109  git commit -m "gmc modified"
+  110  git status
+  111  git push -u origin master
+  112  git status 
+  113  git add .
+  114  git status
+  115  git commit -m "renamed file"
+  116  git status
+  117  git push -u origin master 
+  118  git status
+  119  history 20 > today.txt
+  120  ls
+  121  git status
+  122  git add .
+  123  git status
+  124  git commit -m "steps done"
+  125  git status
+  126  git push -u orgin master 
+  127  git push -u origin master
+  128  git status
+  129  history 0 > today.txt
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m "final steps"
+  134  git status
+  135  git push -u origin master
+  136  git status
   137  history 1 > today.txt
+  138  git status
+  139  git add .
+  140  git commit -m "final steps"
+  141  git push -u origin master 
+  142  git status
+  143  history 40 > today.txt
